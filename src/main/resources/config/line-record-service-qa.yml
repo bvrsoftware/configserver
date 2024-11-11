@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-loans:
+line-record-service:
   message: "Welcome to Bvr Software line-record-service related QA APIs "
   contactDetails:
     name: "Cyrano Marita - QA Lead"

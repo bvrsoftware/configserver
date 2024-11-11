@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+user-gate-way:
   message: "Welcome to Bvr Software user gate way related local APIs "
   contactDetails:
     name: "John Doe - Developer"
