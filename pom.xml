@@ -63,6 +63,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>${project.parent.version}</version>
 			</plugin>
 			<plugin>
 				<groupId>com.google.cloud.tools</groupId>
@@ -70,7 +71,7 @@
 				<version>3.4.2</version>
 				<configuration>
 					<to>
-						<image>bvrnetwork/${project.artifactId}:s1</image>
+						<image>ssp9448/${project.artifactId}:s1</image>
 					</to>
 				</configuration>
 			</plugin>
