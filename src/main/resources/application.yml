@@ -16,6 +16,8 @@ spring:
           timeout: 5
           clone-on-start: true
           force-pull: true
+          username: bvrsoftware
+          password: Ssp@12345#
 #          skipSslValidation: true
 
 management:
